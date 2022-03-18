@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "APD_ONLY",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example-Debug-f2fd9bd66abbfca03f37.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example0-Debug-722e45bf24620d8a1287.json",
+					"name" : "example0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_built::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_built-Debug-0ba116b65bf3d7ab6884.json",
+					"name" : "measure_built",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_built0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_built0-Debug-1c26e7153ab9b4dbb397.json",
+					"name" : "measure_built0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_built3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_built3-Debug-9e60f0edabd112451332.json",
+					"name" : "measure_built3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_fpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_fpp-Debug-6218804baa2d893c8235.json",
+					"name" : "measure_fpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_fpp0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_fpp0-Debug-ae3e716da61914872325.json",
+					"name" : "measure_fpp0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_fpp3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_fpp3-Debug-12090f7133d04d45c993.json",
+					"name" : "measure_fpp3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_perf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_perf-Debug-a7f31f032634834b67c5.json",
+					"name" : "measure_perf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_perf0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_perf0-Debug-b41767523d8bde5ed7bd.json",
+					"name" : "measure_perf0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_perf3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_perf3-Debug-1815e855f242cbd76a5a.json",
+					"name" : "measure_perf3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tomer/Github/Public-PF/cmake-build-debug",
+		"source" : "/home/tomer/Github/Public-PF"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
