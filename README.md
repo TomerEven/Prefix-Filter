@@ -7,7 +7,7 @@ To appear in PVLDB, 15(7).
 ## Prerequisites
 
 - **Compiler:** A C++17 compiler such as GNU G++ or LLVM Clang++.
-- CMake (Version 3.10 or more).
+- CMake (Version 3.10 or higher).
 - **System:** Linux.
 - **Hardware:** Intel. Support of AVX2 is a must. AVX512 is need to run the code "as is". (Although the Prefix-Filter does not use it directly.).
 
