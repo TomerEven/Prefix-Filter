@@ -2,8 +2,9 @@
 
 Implementation of **Prefix-Filter**, which is an incremental filter (approximate set-membership queries).
 If you plan on using the Prefix-Filter, please cite our paper:
-**Prefix Filter: Practically and Theoretically Better Than Bloom.** Tomer Even, Guy Even, Adam Morrison.
+**[Prefix Filter: Practically and Theoretically Better Than Bloom](https://arxiv.org/abs/2203.17139).** Tomer Even, Guy Even, Adam Morrison.
 To appear in PVLDB, 15(7).
+
 ## Prerequisites
 
 - **Compiler:** A C++17 compiler such as GNU G++ or LLVM Clang++.
