@@ -448,7 +448,7 @@ namespace tc_sym {
         assert(quot < QUOTS);
 
         const __m512i target = _mm512_set1_epi8(rem);
-        uint64_t v = _mm512_cmpeq_epu8_mask(target, *pd) >> 13ul;
+        uint64_t v = _mm512_cmpeq_epu8_mask(target, *pd) >> 16ul;
         if (!v)
             return false;
 
