@@ -5,12 +5,14 @@ If you plan on using the Prefix-Filter, please cite our paper:
 **[Prefix Filter: Practically and Theoretically Better Than Bloom](https://arxiv.org/abs/2203.17139).** Tomer Even, Guy Even, Adam Morrison.
 To appear in PVLDB, 15(7).
 
+Short talk abouth the Prefix Filter: https://www.youtube.com/watch?v=KMVtvACSGo0
+
 ## Prerequisites
 
 - **Compiler:** A C++17 compiler such as GNU G++ or LLVM Clang++.
 - CMake (Version 3.10 or higher).
 - **System:** Linux.
-- **Hardware:** Intel. Support of AVX2 is a must. AVX512 is need to run the code "as is". (Although the Prefix-Filter does not use it directly.).
+- **Hardware:** Intel. Support of AVX512 is a must.
 
 ###### Python Packages To Produce The Graphs
 
